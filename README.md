@@ -29,3 +29,10 @@ A beacon shining in the night,
 Guiding us to a future so bright._
 
 ![DALL·E 2023-03-23 21 51 51 - A Google Cloud Robot Morphing into a Plant  Consider transition from left to right for the morphing](https://user-images.githubusercontent.com/62525324/227335454-06f3e2aa-b191-4db8-b8d7-290f8274ba2b.png)
+
+
+[Google Cloud Fundamentals Getting Started with App Engine](https://github.com/Mnotice/GADS-project/blob/bd7d1ba5616b538ec64f6403acf99025c0a13dd1/%23Lab%20Google%20Cloud%20Fundamentals%20Getting%20Started%20with%20App%20Engine.md)
+
+[Google Cloud Fundamentals Getting Started with GKE](https://github.com/Mnotice/GADS-project/blob/bd7d1ba5616b538ec64f6403acf99025c0a13dd1/%23Lab%20Google%20Cloud%20Fundamentals%20Getting%20Started%20with%20GKE.md)
+
+
